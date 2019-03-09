@@ -1,0 +1,14 @@
+{
+  "name": "getHeaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gcloud beta functions deploy getHeaders --entry-point getHeaders --trigger-http --memory=512MB --runtime nodejs8 --region=us-central1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4"
+  }
+}
