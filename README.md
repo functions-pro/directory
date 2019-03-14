@@ -1,2 +1,2 @@
-# directory
-Directory of public functions
+# Functions.pro
+Directory of functions to help you automate and succeed.
